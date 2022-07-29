@@ -1,2 +1,2 @@
-mkdir
+mkdi
 
